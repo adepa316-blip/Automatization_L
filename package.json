@@ -1,0 +1,22 @@
+{
+  "name": "automatization_l",
+  "version": "1.0.0",
+  "description": "Це мій п'ятий перший тестовий репозиторій.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adepa316-blip/Automatization_L.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adepa316-blip/Automatization_L/issues"
+  },
+  "homepage": "https://github.com/adepa316-blip/Automatization_L#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.9.1"
+  }
+}
